@@ -1,7 +1,7 @@
 import React from "react";
 import SearchBar from "../components/SearchBar";
 
-export default function Home() {
+export default function home() {
   return (
     <div>
       <h1 className="text-xl mb-4">Search weather by city</h1>
